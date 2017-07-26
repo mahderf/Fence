@@ -1,0 +1,10 @@
+prompts the customer to input length and width of fence
+- gets the value
+-prompts the customer to input the type of fence they want
+-gets the choice
+-prompts the customer to enter number of gets
+-gets the value
+-calculates the total area of the fence
+- calculate the price of the fence with the choice of fence
+-calculate tax of the price
+- add the tax and permit cost to the price to get the total cost

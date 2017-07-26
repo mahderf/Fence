@@ -1,0 +1,12 @@
+-prompts the customer to input length - print out enter length of fence
+- get the value
+--prompts the customer to input width - print out enter width of fence
+- get the value
+-prompts the customer to input the type of fence they want (print out do you need a wooden or chain fence)
+-gets the choice
+-prompts the customer to enter number of gets ( print out how many gets do you need)
+-gets the value
+-calculates the total area of the fence, multiply 
+- calculate the price of the fence with the choice of fence
+-calculate tax of the price
+- add the tax and permit cost to the price to get the total cost
